@@ -130,6 +130,7 @@ span.highlight {
 }
 
 .column {
+  margin: auto;
   float: left;
   width: 28%;
 }
@@ -139,7 +140,6 @@ span.highlight {
   content: "";
   display: table;
   clear: both;
-  margin-bottom: 0px;
 }
 
 
