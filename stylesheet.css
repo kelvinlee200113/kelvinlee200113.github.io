@@ -128,9 +128,10 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
 .column {
   float: left;
-  width: 27%;
+  width: 30%;
 }
 
 /* Clear floats after the columns */
