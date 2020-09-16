@@ -129,8 +129,13 @@ span.highlight {
   background-color: #ffffd0;
 }
 .column {
-  float: left;
+  float: right;
   width: 33.33%;
+  position: fixed;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* Clear floats after the columns */
@@ -138,11 +143,6 @@ span.highlight {
   content: "";
   display: table;
   clear: both;
-  position: fixed;
-  padding: 2em;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
 }
 
 
