@@ -138,4 +138,11 @@ span.highlight {
   content: "";
   display: table;
   clear: both;
+  position: fixed;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
+
+
