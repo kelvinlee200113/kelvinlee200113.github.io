@@ -130,9 +130,7 @@ span.highlight {
 }
 .column {
   float: left;
-  width: 25%;
-  left: 50%;
-  top: 50%;
+  width: 30%;
 }
 
 /* Clear floats after the columns */
