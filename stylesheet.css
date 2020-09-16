@@ -129,7 +129,8 @@ span.highlight {
   background-color: #ffffd0;
 }
 .column {
-  float: right;
+  padding: 2em;
+  float: left;
   width: 33.33%;
   left: 50%;
   top: 50%;
