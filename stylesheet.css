@@ -131,11 +131,8 @@ span.highlight {
 .column {
   float: right;
   width: 33.33%;
-  position: fixed;
-  padding: 2em;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
 }
 
 /* Clear floats after the columns */
