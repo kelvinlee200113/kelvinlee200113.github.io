@@ -138,6 +138,7 @@ span.highlight {
   content: "";
   display: table;
   clear: both;
+  margin-bottom: 10px;
 }
 
 
