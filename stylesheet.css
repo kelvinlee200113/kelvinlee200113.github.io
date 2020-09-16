@@ -132,7 +132,7 @@ span.highlight {
 .column {
   float: left;
   width: 30%;
-  padding: 2em;
+  padding: 1em;
 }
 
 /* Clear floats after the columns */
