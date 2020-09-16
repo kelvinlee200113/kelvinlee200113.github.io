@@ -130,6 +130,7 @@ span.highlight {
 }
 
 .column {
+  padding-left = 2em;
   float: left;
   width: 33.33%;
 }
