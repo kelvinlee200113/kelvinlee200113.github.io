@@ -138,6 +138,7 @@ span.highlight {
 /* Clear floats after the columns */
 .row:after {
   content: "";
+  padding-left = 2em;
   display: table;
   clear: both;
 }
