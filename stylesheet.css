@@ -142,4 +142,10 @@ span.highlight {
   clear: both;
 }
 
-
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    color: gray;
+    margin: 15px;
+}
